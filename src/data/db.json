@@ -1,0 +1,35 @@
+{
+    "usuarios": [
+      {
+        "id": "1",
+        "nome": "Isac",
+        "email": "isac@gmail.com",
+        "senha": "11"
+      }
+      
+    ],
+    "animais": [
+      {
+        
+      }
+    ],
+    "especie": [
+      {
+        "id": "1",
+        "nome": "Cachorro"
+      },
+      {
+        "id": "2",
+        "nome": "Gato"
+      },
+      {
+        "id": "3",
+        "nome": "Cavalo"
+      },
+      {
+        "id": "4",
+        "nome": "Fuinha"
+      }
+      
+    ]
+  }
